@@ -12,3 +12,4 @@ To get started with this course, clone this repo and follow these commands:
 2. Run `npm run start` to start the project
 3. Start coding!
 
+![](images/NFTProjectPreview.png)
