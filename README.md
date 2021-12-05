@@ -1,3 +1,8 @@
+This project was done following the Buildspace tutorial!
+
+
+
+
 # _buildspace Mint Your Own NFT Collection
 
 ### **Welcome 👋**
